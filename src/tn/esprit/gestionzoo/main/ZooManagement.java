@@ -96,7 +96,6 @@ public class ZooManagement {
         Zoo zoo2 = new Zoo("tn.esprit.gestionzoo.entities.Zoo 2", "Ville 2", 25); //cause it is a constant .. final ..
 
         // Création d'animaux
-        
         Animal lion3 = new Animal("YYY", "Lion", 22, true);
         Animal elephant = new Animal("EEE", "Elephant", 33, true);
         Animal giraffe = new Animal("GGG", "Giraffe", 8, false);
